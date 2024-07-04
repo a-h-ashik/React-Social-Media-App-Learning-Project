@@ -1,8 +1,7 @@
-# React + Vite
+# Social Media App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="960" alt="image" src="https://github.com/a-h-ashik/React-Social-Media-App-Learning-Project/assets/114137718/16d98b4d-929c-4d48-a06e-cb6a85a41e58">
 
-Currently, two official plugins are available:
+<img width="960" alt="image" src="https://github.com/a-h-ashik/React-Social-Media-App-Learning-Project/assets/114137718/31eb4e3f-9971-42e5-a2b0-f8172fbeaa98">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
