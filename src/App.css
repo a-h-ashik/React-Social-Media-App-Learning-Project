@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.app-container {
+  display: flex;
+}
+
+.container-content {
+  width: 100%;
+}
+
+.sidebar {
+  height: 100vh;
+}
+
+.posts-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.post-card {
+  margin: 1rem;
+  width: 45%;
+}
+
+.post-tag {
+  margin-right: 0.5rem;
+}
+
+.post-delete-button {
+  float: right;
+}
+
+.like-button {
+  margin: 0.5rem 0;
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+}
+
+.create-post-form {
+  width: 80%;
+  margin: 1rem;
+}
